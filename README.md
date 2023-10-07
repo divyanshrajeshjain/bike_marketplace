@@ -4,11 +4,11 @@
 
 # Setup Python Virtual Environment
 
-- Run python3 -m venv <name of venv>. Here you can choose any name you wish, but be sure to use that same name throughout the rest of the instructions
+- Run python3 -m venv 'name of venv'. Here you can choose any name you wish, but be sure to use that same name throughout the rest of the instructions
 
 # Active Python Virtual Environment
 
-- Run source <name of venv>/bin/activate
+- Run source 'name of venv'/bin/activate
 
 # Install Python Packages
 
